@@ -12,8 +12,8 @@ from datetime import datetime
 
 # Konfigurasi
 BOT_TOKEN = "8316634587:AAHPyMl-NW2LZSsmSUyH5b8NU7FvAOUb7mg"
-CHANNEL_USERNAME = "@snexinformation"
-CHANNEL_LINK = "https://t.me/snexinformation"
+CHANNEL_USERNAME = "@irfacyber"
+CHANNEL_LINK = "https://t.me/irfacyber"
 LOGO_URL = "https://g.top4top.io/p_35568o9i71.png"
 ADMIN_ID = "6208011594"
 
